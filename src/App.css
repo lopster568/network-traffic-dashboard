@@ -1,0 +1,17 @@
+/* App.css */
+
+.app {
+  display: flex;
+}
+
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  background-color: #161d20;
+  color: #ecf0f1;
+  overflow: visible;
+}
+
+html {
+  background-color: #161d20;
+}
